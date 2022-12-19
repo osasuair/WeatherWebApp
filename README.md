@@ -1,2 +1,2 @@
 # WeatherWebApp
- Simple Server-Hosted Weather App that uses Weather API
+ Server-Hosted Weather App that uses Weather API
